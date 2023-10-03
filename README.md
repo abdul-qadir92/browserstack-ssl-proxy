@@ -10,4 +10,4 @@ Attached the build [apk](https://github.com/abdul-qadir92/browserstack-ssl-proxy
 Enter `google.com` in the host and `443` in the port while connected to the local via Force local.
 
 The below o/p will be generated on BStack device in the logcat:
-![logs](https://github.com/abdul-qadir92/browserstack-ssl-proxy/blob/main/Screenshot%202023-10-03%20at%201.04.12%20PM.png)
+![logs](https://github.com/abdul-qadir92/browserstack-ssl-proxy/blob/main/logcat%20output.png)
